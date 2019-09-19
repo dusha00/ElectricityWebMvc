@@ -1,8 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs/ElectricityWebMvc/v16/Server/sqlite3
-/.vs/ElectricityWebMvc/v16/Server/sqlite3
-bin/
-obj/
